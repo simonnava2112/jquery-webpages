@@ -1,5 +1,5 @@
 # jquery-webpages
-Practicing Jquery
+Practicing Jquery (desktop mode!!!)
 
 Practical exercise with html, css and jquery.
 
